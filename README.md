@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQL Serve
+![Microsoft SQL Server] (https://img.shields.io/badge/Microsoft%20SQL%20Server-%20%23CC2927?logo=Microsoft%20SQL%20Server&logoColor=%23ffffff)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel%20-%20%23217346?logo=Microsoft%20Excel&logoColor=%23ffffff)
