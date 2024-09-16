@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de dados e software.
-- 📚 Estudando Análise de desenvolvimento de sistemas no Centro Universitário SENAC.
 - 🎓 Formado em Gestão da Qualidade pela Universidade Anhembi Morumbi, MBA em Gerenciamento de Projetos pela FGV e MBA em Data Science pela FIAP.
 - 💼 Trabalhando como Consultor de Business Intelligence na Ascending Consultoria e Treinamentos / Instrutor de Formação Profissional na Escola SENAI "Suíço-Brasileira" Paulo Ernesto Tolle.
 - 🌱 Aprendendo mais sobre Front-end, Back-end, Machine Learning e Engenharia de Dados.
