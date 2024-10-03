@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de dados e software.
 - 🎓 Formado em Gestão da Qualidade pela Universidade Anhembi Morumbi, MBA em Gerenciamento de Projetos pela FGV e MBA em Data Science pela FIAP.
-- 💼 Trabalhando como Consultor de Business Intelligence na Ascending Consultoria e Treinamentos / Instrutor de Formação Profissional na Escola SENAI "Suíço-Brasileira" Paulo Ernesto Tolle.
-- 🌱 Aprendendo mais sobre Front-end, Back-end, Machine Learning e Engenharia de Dados.
+- 💼 Trabalhando como Consultor de Business Intelligence na Data Mastery / Automation Specialist at Grenke.
+- 🌱 Aprendendo mais sobre Front-end, Back-end e MLOps.
 
 ## Minhas Skills
 
